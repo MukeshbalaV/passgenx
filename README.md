@@ -1,6 +1,8 @@
 # passgenx
 
 A new Flutter project.
+"It is a specialized strong password generator that uses a combination of cryptographic and randomization algorithms to ensure the highest level of security."
+
 
 ## Getting Started
 
